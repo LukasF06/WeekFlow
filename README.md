@@ -15,4 +15,4 @@ In the future, I plan on upgrading the application so that incorrect user inputs
 
 <img alt="WeekFlow" align="left" width="400px" src="https://github.com/LukasF06/WeekFlow/blob/main/WeekFlowImages/WeekFlowShot3.png" />
 
-<img alt="WeekFlow"  width="400px" src="https://github.com/LukasF06/WeekFlow/blob/main/WeekFlowImages/WeekFlowShot2.png" />
+<img alt="WeekFlow" align="center" width="400px" src="https://github.com/LukasF06/WeekFlow/blob/main/WeekFlowImages/WeekFlowShot2.png" />
