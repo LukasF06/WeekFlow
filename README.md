@@ -1,5 +1,5 @@
 ### WeekFlow
-<img alt="WeekFlow" width="420px" src="https://github.com/LukasF06/WeekFlow/blob/main/WeekFlowImages/WeekFlowShot4.png" />
+<img alt="WeekFlow" width="400px" src="https://github.com/LukasF06/WeekFlow/blob/main/WeekFlowImages/WeekFlowShot4.png" />
 <br />
 ## What is it?
 
@@ -11,8 +11,8 @@ In the future, I plan on upgrading the application so that incorrect user inputs
 
 ## Pictures of the app:
 
-<img alt="WeekFlow" align="left" width="420px" src="https://github.com/LukasF06/WeekFlow/blob/main/WeekFlowImages/WeekFlowShot1.png" />
+<img alt="WeekFlow" align="left" width="400px" src="https://github.com/LukasF06/WeekFlow/blob/main/WeekFlowImages/WeekFlowShot1.png" />
 
-<img alt="WeekFlow" align="left" width="420px" src="https://github.com/LukasF06/WeekFlow/blob/main/WeekFlowImages/WeekFlowShot3.png" />
+<img alt="WeekFlow" align="left" width="400px" src="https://github.com/LukasF06/WeekFlow/blob/main/WeekFlowImages/WeekFlowShot3.png" />
 &nbsp;
-<img alt="WeekFlow" width="420px" src="https://github.com/LukasF06/WeekFlow/blob/main/WeekFlowImages/WeekFlowShot2.png" />
+<img alt="WeekFlow" width="400px" src="https://github.com/LukasF06/WeekFlow/blob/main/WeekFlowImages/WeekFlowShot2.png" />
